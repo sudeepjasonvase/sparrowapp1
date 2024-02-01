@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "version": "v0.1",
+    "split": "train",
+    "image_id": 1,
+    "image_size": {
+      "width": 864,
+      "height": 1296
+    }
+  },
+  "words": [
+    {
+      "rect": {
+        "x1": 502,
+        "y1": 474,
+        "x2": 636,
+        "y2": 517
+      },
+      "value": "58,000",
+      "label": "item_price"
+    },
+    {
+      "rect": {
+        "x1": 496,
+        "y1": 521,
+        "x2": 638,
+        "y2": 559
+      },
+      "value": "165,000",
+      "label": "item_price"
+    },
+    {
+      "rect": {
+        "x1": 496,
+        "y1": 606,
+        "x2": 640,
+        "y2": 649
+      },
+      "value": "195,000",
+      "label": "item_price"
+    },
+    {
+      "rect": {
+        "x1": 518,
+        "y1": 696,
+        "x2": 651,
+        "y2": 739
+      },
+      "value": "22,000",
+      "label": "item_price"
+    },
+    {
+      "rect": {
+        "x1": 520,
+        "y1": 745,
+        "x2": 649,
+        "y2": 787
+      },
+      "value": "28,000",
+      "label": "item_price"
+    },
+    {
+      "rect": {
+        "x1": 522,
+        "y1": 791,
+        "x2": 653,
+        "y2": 834
+      },
+      "value": "35,000",
+      "label": "item_price"
+    },
+    {
+      "rect": {
+        "x1": 506,
+        "y1": 883,
+        "x2": 657,
+        "y2": 934
+      },
+      "value": "503,000",
+      "label": "subtotal"
+    },
+    {
+      "rect": {
+        "x1": 533,
+        "y1": 936,
+        "x2": 661,
+        "y2": 977
+      },
+      "value": "52,815",
+      "label": "tax"
+    },
+    {
+      "rect": {
+        "x1": 346,
+        "y1": 1029,
+        "x2": 642,
+        "y2": 1131
+      },
+      "value": "580,965",
+      "label": "total"
+    },
+    {
+      "rect": {
+        "x1": 112,
+        "y1": 472,
+        "x2": 464,
+        "y2": 515
+      },
+      "value": "SPGTHY BOLOGNASE",
+      "label": "item"
+    },
+    {
+      "rect": {
+        "x1": 108,
+        "y1": 521,
+        "x2": 350,
+        "y2": 568
+      },
+      "value": "PEPPER AUS",
+      "label": "item"
+    },
+    {
+      "rect": {
+        "x1": 110,
+        "y1": 610,
+        "x2": 386,
+        "y2": 653
+      },
+      "value": "WAGYU RIBEYE",
+      "label": "item"
+    },
+    {
+      "rect": {
+        "x1": 114,
+        "y1": 704,
+        "x2": 437,
+        "y2": 749
+      },
+      "value": "ICED LEMON TEA",
+      "label": "item"
+    },
+    {
+      "rect": {
+        "x1": 112,
+        "y1": 753,
+        "x2": 472,
+        "y2": 802
+      },
+      "value": "FUSION TEA LYCHE",
+      "label": "item"
+    },
+    {
+      "rect": {
+        "x1": 110,
+        "y1": 806,
+        "x2": 472,
+        "y2": 848
+      },
+      "value": "NUTTELA BROWNIES",
+      "label": "item"
+    }
+  ]
+}
